@@ -1,4 +1,4 @@
-# Homework 5: Design Document
+# C Wordle: Design Document
 
 * author: *Kaley Yew*
 
